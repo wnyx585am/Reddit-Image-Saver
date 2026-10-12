@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- dark rounded square, matches notification card (#202020) -->
+  <rect x="0" y="0" width="128" height="128" rx="28" fill="#202020"/>
+  <!-- arrow shaft -->
+  <rect x="56.3" y="28.2" width="15.4" height="38.3" fill="#7cb7ff"/>
+  <!-- arrow head -->
+  <polygon points="25.6,66.5 102.4,66.5 64,92.2" fill="#7cb7ff"/>
+  <!-- tray -->
+  <rect x="25.6" y="102.4" width="76.8" height="9" rx="2" fill="#7cb7ff"/>
+</svg>
